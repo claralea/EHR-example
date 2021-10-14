@@ -1,7 +1,7 @@
 # EHR-example
 
 In this exercise, we use publicly available EHR data to run the PheNorm algorithm and estimate for each patient the probability of having type 2 diabetes (T2D).
-All the steps should be done using R.
+All the steps should be done using R. Please write your script in the file run_phenorm.R and submit it to us.
 
 
 ## 1. Prepare the input data
